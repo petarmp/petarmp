@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petarmp
 - 👀 I’m interested in QA Engineering
-- 🌱 I’m currently learning QA wwith Chaii
+- 🌱 I’m currently learning QA Testing with Chai
 - 💞️ I’m looking to collaborate on everything that I can help
 - 📫 How to reach me pmajkicp90@gmail.com
 
